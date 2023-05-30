@@ -1,11 +1,13 @@
 <!-- # LEE EUNSEONG -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=LEE%20EUNSEONG&fontSize=40)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark)  -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)
 
-![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true&theme=Cobalt)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/pro3069/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark)
+
+![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/pro3069/)]
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
