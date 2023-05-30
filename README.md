@@ -1,9 +1,9 @@
 <!-- # LEE EUNSEONG -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=LEE%20EUNSEONG&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=LEE%20EUNSEONG&fontSize=40)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true&theme=radical)
+![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true&theme=Cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/pro3069/)
 # 💪Skills
 ### Platforms & Languages
