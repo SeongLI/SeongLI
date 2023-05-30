@@ -1,5 +1,6 @@
 <!-- # LEE EUNSEONG -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=LEE%20EUNSEONG&fontSize=40)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
