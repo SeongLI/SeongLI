@@ -1,13 +1,11 @@
 <!-- # LEE EUNSEONG -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=LEE%20EUNSEONG&fontSize=40)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark)  -->
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark) -->
 
 ![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/profile/pro3069)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)
 
 ## 🎞 carrer
 - 2022.11 ~ 2022.12.31 : Intern at Gwangju Bank
@@ -46,5 +44,5 @@
  
 # :mailbox_with_mail: Contacts
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pro30343069@gmail.com)](mailto:kimsh1691@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pro3069@naver.com)](mailto:rlatngus1691@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pro30343069@gmail.com)](mailto:pro30343069@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pro3069@naver.com)](mailto:pro3069@naver.com)
