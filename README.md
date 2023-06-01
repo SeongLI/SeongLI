@@ -15,16 +15,16 @@
 </div>
 
 ## 🎞 carrer
-- 2022.11 ~ 2022.12.31 : Intern at Gwangju Bank
-- 2023.01 ~ : Samsung Software Academy For Youth 9st
+- 2022.11 ~ 2022.12.31 : Intern at <b width="30"> Gwangju Bank </b>
+- 2023.01 ~ : <b width="30"> Samsung Software Academy For Youth </b> 9st
 
 ## 📑 Certificate
-[![ADSP](https://img.shields.io/badge/ADSP-ECD53F.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_06.do)
-[![SQLD](https://img.shields.io/badge/SQLD-FF9E0F.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_04.do)
-[![사회조사분석사2급](https://img.shields.io/badge/사회조사분석사2급-FF9A00.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://kostat.go.kr/menu.es?mid=a10411010500)
+[![ADSP](https://img.shields.io/badge/ADSP-0094F5.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_06.do)
+[![SQLD](https://img.shields.io/badge/SQLD-0099E5.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_04.do)
+[![사회조사분석사2급](https://img.shields.io/badge/사회조사분석사2급-008FC7.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://kostat.go.kr/menu.es?mid=a10411010500)
 
-[![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-1E96EB.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_07.do)
-[![정보처리기사](https://img.shields.io/badge/정보처리기사-1B72BE.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
+[![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-5A45FF.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_07.do)
+[![정보처리기사](https://img.shields.io/badge/정보처리기사-7E4DD2.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
 
 <!-- - **데이터분석 준전문가** (20.01.10.)
 - **SQL 개발자** (21.04.16.)
@@ -45,7 +45,7 @@
 
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-232F3E.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  
