@@ -1,11 +1,18 @@
-<!-- # LEE EUNSEONG -->
+<!-- 계속 수정할 예정입니다 :) -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header&text=LEE%20EUNSEONG&fontSize=40)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongLI&layout=compact&theme=dark) -->
+<!-- ![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true) -->
 
-![SeongLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongLI&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/profile/pro3069)
-
+<div align="center">
+ 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongLI&count_bg=%23A7D982&title_bg=%23FFFFFF&icon=angellist.svg&icon_color=%231B09F2&title=hits&edge_flat=true)
+</div>
+<div align="center">
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/profile/pro3069)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pro3069&theme=dark)
+</div>
 
 ## 🎞 carrer
 - 2022.11 ~ 2022.12.31 : Intern at Gwangju Bank
