@@ -12,12 +12,12 @@
 - 2023.01 ~ : Samsung Software Academy For Youth 9st
 
 ## 📑 Certificate
-![ADSP](https://img.shields.io/badge/ADSP-ECD53F.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![SQLD](https://img.shields.io/badge/SQLD-FF9E0F.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![사회조사분석사2급](https://img.shields.io/badge/사회조사분석사2급-FF9A00.svg?&style=for-the-badge&logo=Java&logoColor=white)
+[![ADSP](https://img.shields.io/badge/ADSP-ECD53F.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_06.do)
+[![SQLD](https://img.shields.io/badge/SQLD-FF9E0F.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_04.do)
+[![사회조사분석사2급](https://img.shields.io/badge/사회조사분석사2급-FF9A00.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://kostat.go.kr/menu.es?mid=a10411010500)
 
-![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-1E96EB.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-1B72BE.svg?&style=for-the-badge&logo=Java&logoColor=white)
+[![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-1E96EB.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_07.do)
+[![정보처리기사](https://img.shields.io/badge/정보처리기사-1B72BE.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
 
 <!-- - **데이터분석 준전문가** (20.01.10.)
 - **SQL 개발자** (21.04.16.)
