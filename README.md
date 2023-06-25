@@ -18,12 +18,12 @@
 - 2022.11 ~ 2022.12.31 : Intern at <b width="30"> Gwangju Bank </b>
 - 2023.01 ~ : <b width="30"> Samsung Software Academy For Youth </b> 9st
 
-
 ## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![vue](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
