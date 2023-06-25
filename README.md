@@ -30,6 +30,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
+![R](https://img.shields.io/badge/R-2962FF.svg?&style=for-the-badge&logo=R&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-00A1E0.svg?&style=for-the-badge&logo=SAS&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-007AAC.svg?&style=for-the-badge&logo=SPSS&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-232F3E.svg?&style=for-the-badge&logo=Git&logoColor=white)
