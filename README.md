@@ -48,11 +48,13 @@
 [![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-5A45FF.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_07.do)
 [![정보처리기사](https://img.shields.io/badge/정보처리기사-7E4DD2.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320)
 
-<!-- - **데이터분석 준전문가** (20.01.10.)
+<!--
+**데이터분석 준전문가** (20.01.10.)
 - **SQL 개발자** (21.04.16.)
 - **사회조사분석사 2급** (21.06.02.)
 - **빅데이터분석기사** (2022.07.15.)
-- **정보처리기사** (2022.09.02.) -->
+- **정보처리기사** (2022.09.02.) 
+-->
 
 # :mailbox_with_mail: Contacts
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
