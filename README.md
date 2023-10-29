@@ -17,17 +17,29 @@
 ## 🎞 carrer
 - 2022.11 ~ 2022.12.31 : Intern at <b width="30"> Gwangju Bank </b>
 - 2023.01 ~ : <b width="30"> Samsung Software Academy For Youth </b> 9st
+- 2023.01 ~ 2023.05 :  <b width="30">STF (Silver Town Fitness) </b>
+  - 주요 사용 기술: JAVA, MySql, MyBatis, JavaScript, Vue
+- 2023.07 ~ 2023.08 :  <b width="30">Rhythm 4Cuts </b>
+  - 주요 사용 기술: WebRTC, OpenVidu, React, Redux, Jira
+- 2023.08 ~ 2023.10 :  <b width="30">BookWave </b>
+  - 주요 사용 기술: React, Axios, Recoil, Typescript, Styled-Components
+- 2023.10 ~ 2023.11 :  <b width="30">Dallim </b>
+  - 주요 사용 기술: React-Native, Axios, Redux, Typescript, Styled-Components
 
 ## 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-4FC20D.svg?&style=for-the-badge&logo=React&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-4FC20D.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![vue](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3581D2.svg?&style=for-the-badge&labelColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 
@@ -39,6 +51,8 @@
 ![Git](https://img.shields.io/badge/Git-232F3E.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0079BF.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 
 ## 📑 Certificate
 [![ADSP](https://img.shields.io/badge/ADSP-0094F5.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.dataq.or.kr/www/sub/a_06.do)
