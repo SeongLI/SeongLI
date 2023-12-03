@@ -10,7 +10,8 @@
 </div>
 <div align="center">
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/profile/pro3069)
+
+ <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pro3069)](https://solved.ac/profile/pro3069) -->
  <!-- [![mazandi profile](http://mazandi.herokuapp.com/api?handle=pro3069&theme=dark)](https://solved.ac/profile/pro3069) -->
 </div>
 
