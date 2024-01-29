@@ -15,7 +15,7 @@
  <!-- [![mazandi profile](http://mazandi.herokuapp.com/api?handle=pro3069&theme=dark)](https://solved.ac/profile/pro3069) -->
 </div>
 
-## 🎞 carrer
+## carrer
 - 2022.11 ~ 2022.12.31 : Intern at <b width="30"> Gwangju Bank </b>
 - 2023.01 ~ : <b width="30"> Samsung Software Academy For Youth </b> 9st
 - 2023.01 ~ 2023.05 :  <b width="30">STF (Silver Town Fitness) </b>
@@ -25,9 +25,9 @@
 - 2023.08 ~ 2023.10 :  <b width="30">BookWave </b>
   - 주요 사용 기술: React, Axios, Recoil, Typescript, Styled-Components
 - 2023.10 ~ 2023.11 :  <b width="30">Dallim </b>
-  - 주요 사용 기술: React-Native, Axios, Redux, Typescript, Styled-Components
+  - 주요 사용 기술: React-Native, Axios, Recoil, Typescript, Styled-Components
 
-## 💪Skills
+## Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
