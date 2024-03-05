@@ -19,13 +19,13 @@
 - 2022.11 ~ 2022.12.31 : Intern at <b width="30"> Gwangju Bank </b>
 - 2023.01 ~ : <b width="30"> Samsung Software Academy For Youth </b> 9st
 - 2023.01 ~ 2023.05 :  <b width="30">STF (Silver Town Fitness) </b>
-  - 주요 사용 기술: JAVA, MySql, MyBatis, JavaScript, Vue
+  - 주요 담당 기술: JAVA, MySql, MyBatis, JavaScript, Vue
 - 2023.07 ~ 2023.08 :  <b width="30">Rhythm 4Cuts </b>
-  - 주요 사용 기술: WebRTC, OpenVidu, React, Redux, Jira
+  - 주요 담당 기술: WebRTC, OpenVidu, React, Redux, Jira
 - 2023.08 ~ 2023.10 :  <b width="30">BookWave </b>
-  - 주요 사용 기술: React, Axios, Recoil, Typescript, Styled-Components
+  - 주요 담당 기술: React, Axios, Recoil, Typescript, Styled-Components
 - 2023.10 ~ 2023.11 :  <b width="30">Dallim </b>
-  - 주요 사용 기술: React-Native, Axios, Recoil, Typescript, Styled-Components
+  - 주요 담당 기술: React-Native, Axios, Recoil, Typescript, Styled-Components
 
 ## Skills
 ### Platforms & Languages
